@@ -305,6 +305,7 @@ function pick(guess) {
           lose();
         }
     }
+<<<<<<< HEAD
 }
 
 // Inside your JavaScript code:
@@ -331,3 +332,6 @@ function goFight() {
     document.getElementById("monsterImg").src = monsters[fighting].image;
     // Other code remains the same
 }
+=======
+}
+>>>>>>> 5ae7b546b0ea9d60e36eb501b84eb30d9ac4aec9
